@@ -9,5 +9,6 @@ public class Main {
         System.out.println("qqq111");
 
         System.out.println("tttt");
+        System.out.println("git IDEA");
     }
 }
